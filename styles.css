@@ -152,6 +152,7 @@ body {
     padding: 20px 60px;
     font-weight: 600;
     box-shadow: var(--my-box-shadow);
+    position: relative; 
 }
 
 /* Top of header content */
